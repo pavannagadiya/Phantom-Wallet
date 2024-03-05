@@ -80,7 +80,7 @@ export default function Home() {
 
   return (
     <main className="min-h-screen items-center justify-between p-24">
-      <div>You need to open it into "Open Preview in new tab"</div>
+      <div><h1><b>You need to open it into "Open Preview in new tab"</b></h1></div>
       <br />
       <p>In this example I added bellow points</p>
       <ul>
@@ -94,6 +94,8 @@ export default function Home() {
         <li>6.)I have stored account address into browser's localstorage.</li>
         <li>7.)Library I used @solana/web3.js.</li>
       </ul>
+      <br />
+      <hr />
       <br />
       <div>
         <h1>PhantomWallet</h1>
